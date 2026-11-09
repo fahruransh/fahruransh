@@ -2,7 +2,7 @@
 
 > Fullstack & Mobile Developer · based in Magelang, Indonesia
 
-I build web apps, developer tools, and blockchain utilities — mostly in Python, JavaScript/TypeScript, and PHP (Laravel). This profile is a home base for the projects below.
+I build web apps, developer tools, and blockchain utilities mostly in Python, JavaScript/TypeScript. This profile is a home base for the projects below.
 
 ## 🛠️ Tech Stack
 
