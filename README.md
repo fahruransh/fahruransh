@@ -34,7 +34,3 @@ I build web apps, developer tools, and blockchain utilities — mostly in Python
 | [**scrapetweet**](https://github.com/fahruransh/scrapetweet) | Search recent tweets by keyword via the X API (Tweepy), with automatic retry on rate limits. |
 | [**tonxcheck**](https://github.com/fahruransh/tonxcheck) | TON wallet balance checker — bulk-check addresses from a file. |
 | [**portofolio**](https://github.com/fahruransh/portofolio) | Personal portfolio — Fahrur Anshori, Fullstack & Mobile Developer. React 19 + Vite + GSAP, with unit & E2E tests. |
-
-## 📫 Connect
-
-- 𝕏 — [x.com/fahrurkopling](https://x.com/fahrurkopling)
